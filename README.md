@@ -8,3 +8,8 @@ Controls
 'w' and 's' for acceration and breaking
 
 'a' and 'd' for steering
+
+
+Watch video here
+
+https://youtu.be/Fxka8B8HQSM
